@@ -76,7 +76,7 @@ Berdasarkan temuan di atas, berikut adalah rekomendasi strategis untuk mengurang
 - **Program Loyalitas Berjenjang**: Pelanggan dengan `Total Spend` tinggi adalah aset. Buat program loyalitas eksklusif (misal: Platinum Tier) yang memberikan keuntungan seperti akses prioritas ke layanan pelanggan, diskon khusus, atau akses awal ke fitur baru.
 - **Personalisasi Penawaran**: Gunakan data `Usage Frequency` dan `Total Spend` untuk memberikan penawaran yang relevan, membuat mereka merasa dihargai.
 
-### 3. **Minimalkan Friksi Pembayaran dan Jaga Keterlibatan**
+### 3. **Minimalkan Kendala Pembayaran**
 - **Sistem Pembayaran Fleksibel**: Untuk mengatasi `Payment Delay`, sediakan berbagai metode pembayaran (e-wallet, transfer bank, kartu kredit) dan kirim pengingat pembayaran otomatis (H-3, H-1, hari H).
 - **Kampanye Re-engagement**: Targetkan pelanggan dengan `Last Interaction` yang sudah lama. Kirim email berisi rangkuman fitur baru, studi kasus, atau penawaran khusus untuk "membangunkan" mereka kembali.
 
